@@ -4,4 +4,6 @@ The list of projects are:
 2- Print on Serial Monitor
 3- Gas Sensor
 4- Ultrasonic Distance Sensor
+5- Buzzer with LED & Push Buttons
+5-Dispaly on LCD
 
