@@ -1,1 +1,3 @@
-
+Control the speed of a DC motor with a photoresistor. 
+Start the simulation, click on the photoresistor, and 
+move the slider to see how the motor speed changes.
